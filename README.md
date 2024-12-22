@@ -1,3 +1,2 @@
-# Password_Manager
-project using shell scripting gitbash
 # Todo_List
+todo list project for daily task management.

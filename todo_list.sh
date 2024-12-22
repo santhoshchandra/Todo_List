@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # File to store tasks
+# Added a sample comment
 TODO_FILE="todo_list.txt"
 
 # Ensure the todo file exists
